@@ -1,5 +1,5 @@
 {
-	"name": "minecraft:default",
+	"type": "minecraft:default",
 	"config": {
 		"top_material": {
 			"Name": "minecraft:smooth_sandstone_slab",

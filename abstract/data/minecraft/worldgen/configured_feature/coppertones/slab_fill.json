@@ -1,8 +1,9 @@
 {
-	"name": "minecraft:decorated",
+	"type": "minecraft:decorated",
 	"config": {
 		"feature": {
-			"name": "delta_feature",
+			"type": "delta_feature",
+			"name": "sand_fill",
 			"config": {
 				"contents": {
 					"Name": "minecraft:sand"
@@ -21,7 +22,7 @@
 			}
 		},
 		"decorator": {
-			"name": "minecraft:count_multilayer",
+			"type": "minecraft:count_multilayer",
 			"config": {
 				"count": 40
 			}

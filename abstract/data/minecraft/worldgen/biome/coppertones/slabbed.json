@@ -1,6 +1,6 @@
 {
-	"sky_color": 0,
 	"effects": {
+		"sky_color": 0,
 		"fog_color": 16777215,
 		"water_color": 15952283,
 		"water_fog_color": 329011,
