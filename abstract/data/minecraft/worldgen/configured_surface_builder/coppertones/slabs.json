@@ -1,0 +1,18 @@
+{
+	"name": "minecraft:default",
+	"config": {
+		"top_material": {
+			"Name": "minecraft:smooth_sandstone_slab",
+			"Properties": {
+				"type": "bottom",
+				"waterlogged": "false"
+			}
+		},
+		"under_material": {
+			"Name": "minecraft:sand"
+		},
+		"underwater_material": {
+			"Name": "minecraft:sand"
+		}
+	}
+}

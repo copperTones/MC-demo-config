@@ -1,0 +1,12 @@
+{
+	"type": "coppertones:default",
+	"generator": {
+		"type": "minecraft:noise",
+		"seed": 0,
+		"biome_source": {
+			"type": "minecraft:fixed",
+			"biome": "coppertones:slabbed"
+		},
+		"settings": "coppertones:default"
+	}
+}

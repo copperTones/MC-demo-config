@@ -1,0 +1,99 @@
+{
+	"sky_color": 0,
+	"effects": {
+		"fog_color": 16777215,
+		"water_color": 15952283,
+		"water_fog_color": 329011,
+		"mood_sound": {
+			"sound": "minecraft:ambient.cave",
+			"tick_delay": 6000,
+			"block_search_extent": 8,
+			"offset": 2.0
+		}
+	},
+	"category": "none",
+	"precipitation": "none",
+	"downfall": 0.6,
+	"temperature": 0.2,
+	"spawners": {
+		"water_ambient": [],
+		"ambient": [],
+		"misc": [],
+		"water_creature": [],
+		"creature": [],
+		"monster": [
+			{
+				"type": "minecraft:spider",
+				"weight": 100,
+				"minCount": 4,
+				"maxCount": 4
+			},
+			{
+				"type": "minecraft:zombie",
+				"weight": 95,
+				"minCount": 4,
+				"maxCount": 4
+			},
+			{
+				"type": "minecraft:zombie_villager",
+				"weight": 5,
+				"minCount": 1,
+				"maxCount": 1
+			},
+			{
+				"type": "minecraft:skeleton",
+				"weight": 20,
+				"minCount": 4,
+				"maxCount": 4
+			},
+			{
+				"type": "minecraft:creeper",
+				"weight": 100,
+				"minCount": 4,
+				"maxCount": 4
+			},
+			{
+				"type": "minecraft:slime",
+				"weight": 100,
+				"minCount": 4,
+				"maxCount": 4
+			},
+			{
+				"type": "minecraft:enderman",
+				"weight": 10,
+				"minCount": 1,
+				"maxCount": 4
+			},
+			{
+				"type": "minecraft:witch",
+				"weight": 5,
+				"minCount": 1,
+				"maxCount": 1
+			}
+		]
+	},
+	"spawn_costs": {},
+	"depth": 0.425,
+	"scale": 0.45,
+	"surface_builder": "coppertones:slabs",
+	"carvers": {
+		"air": []
+	},
+	"features": [
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[],
+		[
+			"coppertones:slab_fill"
+		],
+		[]
+	],
+	"starts": [
+		"minecraft:stronghold"
+	]
+}
