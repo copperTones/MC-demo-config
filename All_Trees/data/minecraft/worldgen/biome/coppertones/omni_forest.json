@@ -1,6 +1,6 @@
 {
-	"sky_color": 2039679,
 	"effects": {
+		"sky_color": 2039679,
 		"fog_color": 63,
 		"water_color": 8331135,
 		"water_fog_color": 4128831,
@@ -21,14 +21,7 @@
 		"misc": [],
 		"water_creature": [],
 		"creature": [],
-		"monster": [
-			{
-				"type": "minecraft:vex",
-				"weight": 100,
-				"minCount": 4,
-				"maxCount": 4
-			}
-		]
+		"monster": []
 	},
 	"spawn_costs": {},
 	"depth": 0.425,

@@ -1,5 +1,5 @@
 {
-	"name": "simple_random_selector",
+	"type": "simple_random_selector",
 	"config": {
 		"features": [
 			"coppertones:tree_s_bl",

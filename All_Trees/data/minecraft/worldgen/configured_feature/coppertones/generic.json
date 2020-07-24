@@ -1,5 +1,6 @@
 {
 	"name": "tree",
+	"type": "tree",
 	"config": {
 		"heightmap": "OCEAN_FLOOR",
 		"max_water_depth": 0,
