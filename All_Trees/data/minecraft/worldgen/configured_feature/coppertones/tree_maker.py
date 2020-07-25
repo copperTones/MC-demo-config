@@ -13,8 +13,6 @@ for t in trunks:
 		new['config']['foliage_placer']['type'] = f['type']
 		new['config']['trunk_provider']['state']['Name'] = t['block']
 		new['config']['leaves_provider']['state']['Name'] = f['block']
-		if 'height' in f:
-			new['config']['foliage_placer']['height'] = f['height']
 		if 'extra' in f:
 			new['config']['foliage_placer'].update(f['extra'])
 		if t['abbr'] == 'f':
