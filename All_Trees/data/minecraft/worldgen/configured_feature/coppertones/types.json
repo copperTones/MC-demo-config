@@ -1,0 +1,103 @@
+{
+	"trunks": [
+		{
+			"type": "straight_trunk_placer",
+			"block": "minecraft:red_concrete",
+			"abbr": "s"
+		},
+		{
+			"type": "forking_trunk_placer",
+			"block": "minecraft:orange_concrete",
+			"abbr": "fr"
+		},
+		{
+			"type": "giant_trunk_placer",
+			"block": "minecraft:yellow_concrete",
+			"abbr": "g"
+		},
+		{
+			"type": "mega_jungle_trunk_placer",
+			"block": "minecraft:green_concrete",
+			"abbr": "mj"
+		},
+		{
+			"type": "dark_oak_trunk_placer",
+			"block": "minecraft:blue_concrete",
+			"abbr": "dk"
+		},
+		{
+			"type": "fancy_trunk_placer",
+			"block": "minecraft:stripped_crimson_stem",
+			"abbr": "f"
+		}
+	],
+	"foliage": [
+		{
+			"type": "blob_foliage_placer",
+			"block": "minecraft:red_stained_glass",
+			"abbr": "bl",
+			"height": 4
+		},
+		{
+			"type": "spruce_foliage_placer",
+			"block": "minecraft:orange_stained_glass",
+			"abbr": "s",
+			"extra": {
+				"trunk_height": {
+					"base": 4,
+					"spread": 4
+				}
+			}
+		},
+		{
+			"type": "pine_foliage_placer",
+			"block": "minecraft:yellow_stained_glass",
+			"abbr": "p",
+			"extra": {
+				"height": {
+					"base": 4,
+					"spread": 4
+				}
+			}
+		},
+		{
+			"type": "acacia_foliage_placer",
+			"block": "minecraft:lime_stained_glass",
+			"abbr": "ac"
+		},
+		{
+			"type": "bush_foliage_placer",
+			"block": "minecraft:cyan_stained_glass",
+			"abbr": "b",
+			"height": 4
+		},
+		{
+			"type": "fancy_foliage_placer",
+			"block": "minecraft:light_blue_stained_glass",
+			"abbr": "f",
+			"height": 4
+		},
+		{
+			"type": "jungle_foliage_placer",
+			"block": "minecraft:blue_stained_glass",
+			"abbr": "j",
+			"height": 4
+		},
+		{
+			"type": "mega_pine_foliage_placer",
+			"block": "minecraft:purple_stained_glass",
+			"abbr": "mp",
+			"extra": {
+				"crown_height": {
+					"base": 4,
+					"spread": 4
+				}
+			}
+		},
+		{
+			"type": "dark_oak_foliage_placer",
+			"block": "minecraft:magenta_stained_glass",
+			"abbr": "dk"
+		}
+	]
+}
