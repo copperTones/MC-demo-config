@@ -30,14 +30,6 @@
             "height": {
                 "base": 4,
                 "spread": 4
-            },
-            "trunk_height": {
-                "base": 4,
-                "spread": 4
-            },
-            "crown_height": {
-                "base": 4,
-                "spread": 4
             }
         },
         "leaves_provider": {

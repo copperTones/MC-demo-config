@@ -24,11 +24,7 @@
             "type": "fancy_foliage_placer",
             "radius": 2,
             "offset": 0,
-            "height": 4,
-            "trunk_height": {
-                "base": 4,
-                "spread": 4
-            }
+            "height": 4
         },
         "leaves_provider": {
             "type": "simple_state_provider",

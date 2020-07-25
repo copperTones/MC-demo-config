@@ -27,11 +27,6 @@
             "type": "mega_pine_foliage_placer",
             "radius": 2,
             "offset": 0,
-            "height": 4,
-            "trunk_height": {
-                "base": 4,
-                "spread": 4
-            },
             "crown_height": {
                 "base": 4,
                 "spread": 4

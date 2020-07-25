@@ -1,4 +1,5 @@
 import json
+from copy import deepcopy
 
 with open('generic.json') as f:
 	generic = json.load(f)
@@ -37,7 +38,7 @@ foliage = (
 
 for t_type, t_block, t_abbr in trunks:
 	for f_type, f_block, f_abbr, extra in foliage:
-		new = generic.copy()
+		new = deepcopy(generic)
 		new['config']['trunk_placer']['type'] = t_type
 		new['config']['foliage_placer']['type'] = f_type
 		new['config']['trunk_provider']['state']['Name'] = t_block
