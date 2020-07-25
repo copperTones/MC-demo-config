@@ -23,7 +23,7 @@
         "foliage_placer": {
             "type": "dark_oak_foliage_placer",
             "radius": 1,
-            "offset": 0
+            "offset": 1
         },
         "leaves_provider": {
             "type": "simple_state_provider",

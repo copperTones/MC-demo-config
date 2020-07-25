@@ -23,12 +23,14 @@
 		{
 			"type": "dark_oak_trunk_placer",
 			"block": "minecraft:blue_concrete",
-			"abbr": "dk"
+			"abbr": "dk",
+			"offset": 1
 		},
 		{
 			"type": "fancy_trunk_placer",
 			"block": "minecraft:stripped_crimson_stem",
-			"abbr": "f"
+			"abbr": "f",
+			"offset": 1
 		}
 	],
 	"foliage": [

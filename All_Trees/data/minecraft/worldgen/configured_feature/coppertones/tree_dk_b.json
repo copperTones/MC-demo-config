@@ -23,7 +23,7 @@
         "foliage_placer": {
             "type": "bush_foliage_placer",
             "radius": 2,
-            "offset": 0,
+            "offset": 1,
             "height": 3
         },
         "leaves_provider": {

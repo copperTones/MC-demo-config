@@ -26,7 +26,7 @@
         "foliage_placer": {
             "type": "spruce_foliage_placer",
             "radius": 2,
-            "offset": 0,
+            "offset": 1,
             "trunk_height": {
                 "base": 2,
                 "spread": 1

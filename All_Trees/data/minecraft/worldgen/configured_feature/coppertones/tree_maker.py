@@ -15,6 +15,8 @@ for t in trunks:
 		new['config']['leaves_provider']['state']['Name'] = f['block']
 		if 'extra' in f:
 			new['config']['foliage_placer'].update(f['extra'])
+		if 'offset' in t:
+			new['config']['foliage_placer']['offset'] = t['offset']
 		if t['abbr'] == 'f':
 			new['config']['trunk_provider']['state']['Properties'] = {'axis': 'y'}
 		with open('_'.join(['tree', t['abbr'], f['abbr']])+'.json', 'w') as f:

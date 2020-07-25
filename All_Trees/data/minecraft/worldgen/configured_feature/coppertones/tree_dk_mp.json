@@ -23,7 +23,7 @@
         "foliage_placer": {
             "type": "mega_pine_foliage_placer",
             "radius": 2,
-            "offset": 0,
+            "offset": 1,
             "crown_height": {
                 "base": 2,
                 "spread": 2

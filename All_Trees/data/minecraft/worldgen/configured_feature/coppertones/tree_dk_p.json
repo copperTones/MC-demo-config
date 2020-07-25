@@ -23,7 +23,7 @@
         "foliage_placer": {
             "type": "pine_foliage_placer",
             "radius": 2,
-            "offset": 0,
+            "offset": 1,
             "height": {
                 "base": 4,
                 "spread": 2
