@@ -25,7 +25,7 @@
         },
         "foliage_placer": {
             "type": "jungle_foliage_placer",
-            "radius": 2,
+            "radius": 1,
             "offset": 0,
             "height": 4
         },

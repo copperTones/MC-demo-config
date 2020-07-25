@@ -28,8 +28,8 @@
             "radius": 2,
             "offset": 0,
             "crown_height": {
-                "base": 4,
-                "spread": 4
+                "base": 2,
+                "spread": 2
             }
         },
         "leaves_provider": {

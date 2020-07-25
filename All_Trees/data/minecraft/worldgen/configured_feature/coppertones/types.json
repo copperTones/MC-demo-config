@@ -44,8 +44,8 @@
 			"abbr": "s",
 			"extra": {
 				"trunk_height": {
-					"base": 4,
-					"spread": 4
+					"base": 2,
+					"spread": 1
 				}
 			}
 		},
@@ -56,20 +56,23 @@
 			"extra": {
 				"height": {
 					"base": 4,
-					"spread": 4
+					"spread": 2
 				}
 			}
 		},
 		{
 			"type": "acacia_foliage_placer",
 			"block": "minecraft:lime_stained_glass",
-			"abbr": "ac"
+			"abbr": "ac",
+			"extra": {
+				"radius": 3
+			}
 		},
 		{
 			"type": "bush_foliage_placer",
 			"block": "minecraft:cyan_stained_glass",
 			"abbr": "b",
-			"height": 4
+			"height": 3
 		},
 		{
 			"type": "fancy_foliage_placer",
@@ -81,7 +84,10 @@
 			"type": "jungle_foliage_placer",
 			"block": "minecraft:blue_stained_glass",
 			"abbr": "j",
-			"height": 4
+			"height": 4,
+			"extra": {
+				"radius": 1
+			}
 		},
 		{
 			"type": "mega_pine_foliage_placer",
@@ -89,15 +95,18 @@
 			"abbr": "mp",
 			"extra": {
 				"crown_height": {
-					"base": 4,
-					"spread": 4
+					"base": 2,
+					"spread": 2
 				}
 			}
 		},
 		{
 			"type": "dark_oak_foliage_placer",
 			"block": "minecraft:magenta_stained_glass",
-			"abbr": "dk"
+			"abbr": "dk",
+			"extra": {
+				"radius": 1
+			}
 		}
 	]
 }

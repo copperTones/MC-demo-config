@@ -26,7 +26,7 @@
             "offset": 0,
             "height": {
                 "base": 4,
-                "spread": 4
+                "spread": 2
             }
         },
         "leaves_provider": {
