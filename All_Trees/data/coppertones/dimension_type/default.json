@@ -1,0 +1,17 @@
+{
+	"name": "coppertones:default",
+	"has_skylight": true,
+	"fixed_time": 6000,
+	"ambient_light": 0.1,
+	"has_ceiling": false,
+	"logical_height": 256,
+	"natural": true,
+	"ultrawarm": false,
+	"shrunk": false,
+	"coordinate_scale": 1,
+	"piglin_safe": true,
+	"has_raids": false,
+	"bed_works": true,
+	"respawn_anchor_works": true,
+	"infiniburn": "minecraft:infiniburn_overworld"
+}

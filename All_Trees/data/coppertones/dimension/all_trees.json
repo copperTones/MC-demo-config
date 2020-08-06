@@ -1,0 +1,28 @@
+{
+	"type": "coppertones:default",
+	"generator": {
+		"type": "minecraft:flat",
+		"settings": {
+			"layers": [
+				{
+					"block": "minecraft:bedrock",
+					"height": 1
+				},
+				{
+					"block": "minecraft:dirt",
+					"height": 62
+				},
+				{
+					"block": "minecraft:grass_block",
+					"height": 1
+				}
+			],
+			"biome": "coppertones:all_trees",
+			"lakes": false,
+			"features": true,
+			"structures": {
+				"structures": {}
+			}
+		}
+	}
+}
