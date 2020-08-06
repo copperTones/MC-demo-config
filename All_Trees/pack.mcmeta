@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 5,
-		"description": "New worldgen"
+		"description": "Adds a dimension with every combination of trunk and foliage."
 	}
 }
